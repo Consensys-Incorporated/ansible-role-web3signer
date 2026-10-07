@@ -14,7 +14,6 @@ Ansible role that will install, configure and runs [Web3Signer](https://docs.web
 
 ### Supported Platforms
 ```
-* Debian
 * Ubuntu
 * Redhat(CentOS/Fedora)
 * Amazon

@@ -12,17 +12,14 @@ galaxy_info:
   license: license (Apache)
   min_ansible_version: '2.9'
   platforms:
-    - name: Debian
-      versions:
-        - stretch
-        - sid
     - name: Ubuntu
       versions:
         - resolute
         - noble
     - name: EL
       versions:
-        - '7'
+        - "10"
+        - "9"
     - name: Fedora
       versions:
         - '44'
