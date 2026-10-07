@@ -18,15 +18,15 @@ galaxy_info:
         - sid
     - name: Ubuntu
       versions:
-        - bionic
-        - jammy
+        - resolute
         - noble
     - name: EL
       versions:
         - '7'
     - name: Fedora
       versions:
-        - 'all'
+        - '44'
+        - '43'
   galaxy_tags:
     - web3signer
     - blockchain
